@@ -1,0 +1,11 @@
+id = "c60dc4b8dcb0d1f7171f77d7977c6b0c1e09cd72bbfe705544ca17452441d99c"
+description = ""
+website_url = ""
+logo_url = ""
+
+[consensus]
+c = "972bee9e1a67f8a6cdc0c8c28759e75020fc825cd026ad69b3f0097981b87cd8"
+
+[network]
+ns = "3aa0a669caba265bbb6e205d8205cc34afdf5f19f103d044759382ad1d8a0eec"
+ni = "a9bc5ba04525d6471229643e4f53c8f88929dc728a8d8d901c204dfaee5f7312"
